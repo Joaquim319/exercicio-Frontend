@@ -1,0 +1,20 @@
+body {
+    color: rgb(43, 116, 226);
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 18px;
+}
+
+img {
+    width: 155px;
+    height: 155px;
+    border-radius: 55%;
+    border: 5px solid brown;
+}
